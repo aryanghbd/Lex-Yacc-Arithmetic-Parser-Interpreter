@@ -1,4 +1,4 @@
-A basic arithmetic parser built while studying ELEC50010 Instruction Set Architectures and Compilers.
+A basic arithmetic parser with line by line execution built while studying ELEC50010 Instruction Set Architectures and Compilers.
 
 The 'calculator' supports the following operations [+, -, *, ^, /, %] corresponding to binary addition, subtraction, multiplication, exponentiation, division and modulo. 
 
